@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudoNotatnik</string>
+    <string name="subject_text_hint">Przedmiot</string>
+    <string name="write_button_text">Dodaj do bazy</string>
+    <string name="show_button_text">Pokaż dane</string>
+    <string name="surname_text_hint">Nazwisko</string>
+    <string name="degree_text_hint">Stopień naukowy</string>
+    <string name="phone_text_hint">Numer telefonu</string>
+    <string name="add_button_text">Dodaj przedmiot</string>
+    <string name="remove_button_text">Usuń przedmioty</string>
+    <string name="subject_content_desc">Przedmiot</string>
+    <string name="subject_name">Nazwa przedmiotu:</string>
+    <string name="ok_button">OK</string>
+    <string name="lecturer_info">Prowadzący:</string>
+    <string name="cancel_button">Anuluj</string>
+    <string name="add_new_not_text">Dodaj notatkę</string>
+    <string name="note_hint">Treść notatki</string>
+</resources>
